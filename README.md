@@ -20,7 +20,7 @@ Welcome to E-handicraft, an online  store management system designed to provide 
 - Frontend: HTML, CSS, SASS, JavaScript (Vanilla, jQuery)
 - Backend: PHP 
 - Database: MySQL
-- Other Tools: Git, vsode
+- Other Tools: Git, vscode, XAMPP server
 
 
 
